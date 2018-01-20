@@ -8,7 +8,6 @@ Superuser permissions requeried for install!
 send messages with echo and read with cat commands
 those commands can run on /dev/messagebox
 to specify user to send message use @<username> before typing message
-  More information can be found on rapor.pdf
 
 Examples:
 echo "@joe hello" > /dev/messagebox
